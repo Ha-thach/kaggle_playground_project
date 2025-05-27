@@ -1,0 +1,5 @@
+data_path: "train.csv"
+target_column: "Calories"
+test_size: 0.3
+random_seed: 42
+model_name: MLPRegressor
